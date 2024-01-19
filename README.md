@@ -25,6 +25,10 @@
 - 🎨 Experience with JavaFX for building user interfaces.
 - 🚀 Recently acquired skills in web application development using Ktor, ASP.Net, and Express.js.
 
+## 🌐 Server and Infrastructure
+- 🖥️ Proficient in creating servers with Proxmox.
+- 💡 Experienced in managing projects and documentation with Notion.
+
 ## 🔐 Cybersecurity Knowledge
 - 🛡️ Understanding of cybersecurity principles and practices.
 - 💼 Acquired skills from the BTS SNIR Option A curriculum.
