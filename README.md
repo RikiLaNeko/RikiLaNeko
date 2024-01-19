@@ -13,14 +13,17 @@
 - ASP.Net
 - Linux
 - Windows
+- Ktor (Web Application Development)
 
 ## 🎓 Academic Background
+- 🏫 Currently pursuing a BTS SNIR.
 - 🏫 Completed BAC STI2D with a specialization in Systems of Information and Numerical (SIN).
 
 ## 👨‍💻 Programming and Software Development Skills
 - 💻 Proficient in Java, C#, and JavaScript.
 - 🌐 Web development skills including HTML and CSS.
 - 🎨 Experience with JavaFX for building user interfaces.
+- 🚀 Recently acquired skills in web application development using Ktor, ASP.Net, and Express.js.
 
 ## 🔐 Cybersecurity Knowledge
 - 🛡️ Understanding of cybersecurity principles and practices.
@@ -36,9 +39,7 @@
 ## 👾 GitHub Repository
 - 📂 Check out my [GitHub profile](https://github.com/RikiLaNeko?tab=repositories) for projects and contributions.
 
-
 Feel free to connect and collaborate! Let's build something awesome together!
-
 
 <!---
 RikiLaNeko/RikiLaNeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
