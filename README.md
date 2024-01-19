@@ -1,29 +1,43 @@
-- 👋 Hi, I’m @RikiLaNeko
-- 👀 I’m interested in Programming, Cybersecurity
-- 🌱 I’m currently learning Java, C#, HTML, CSS, JavaFX, JavaScript, Linux, Windows
+# Hi there! 👋 I’m [@RikiLaNeko](https://github.com/RikiLaNeko)
 
-🎓 Academic Background:
-  - 🏫 Completed BAC STI2D with a specialization in Systems of Information and Numerical (SIN).
+## 🌱 Currently Learning
+- Java
+- C#
+- HTML
+- CSS
+- JavaFX
+- JavaScript
+- Node.js
+- Express.js
+- Kotlin
+- ASP.Net
+- Linux
+- Windows
 
-👨‍💻 Programming and Software Development Skills:
-  - 💻 Proficient in Java, C#, and JavaScript.
-  - 🌐 Web development skills including HTML and CSS.
-  - 🎨 Experience with JavaFX for building user interfaces.
-  
-🔐 Cybersecurity Knowledge:
-  - 🛡️ Understanding of cybersecurity principles and practices.
-  
-🐧 Operating Systems:
-  - 🐧 Proficient in Linux.
-  - 🪟 Familiar with Windows.
+## 🎓 Academic Background
+- 🏫 Completed BAC STI2D with a specialization in Systems of Information and Numerical (SIN).
 
-📚 Ongoing Education:
-  - 📚 Currently expanding knowledge in various programming languages and technologies.
+## 👨‍💻 Programming and Software Development Skills
+- 💻 Proficient in Java, C#, and JavaScript.
+- 🌐 Web development skills including HTML and CSS.
+- 🎨 Experience with JavaFX for building user interfaces.
 
-👾 GitHub Repository:
-  - 📂 Check out my GitHub profile for projects and contributions.
+## 🔐 Cybersecurity Knowledge
+- 🛡️ Understanding of cybersecurity principles and practices.
+- 💼 Acquired skills from the BTS SNIR Option A curriculum.
 
-Feel free to connect and collaborate!
+## 🐧 Operating Systems
+- 🐧 Proficient in Linux.
+- 🪟 Familiar with Windows.
+
+## 📚 Ongoing Education
+- 📚 Currently expanding knowledge in various programming languages and technologies.
+
+## 👾 GitHub Repository
+- 📂 Check out my [GitHub profile](https://github.com/RikiLaNeko) for projects and contributions.
+
+Feel free to connect and collaborate! Let's build something awesome together!
+
 
 <!---
 RikiLaNeko/RikiLaNeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
