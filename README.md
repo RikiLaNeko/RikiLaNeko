@@ -34,7 +34,8 @@
 - 📚 Currently expanding knowledge in various programming languages and technologies.
 
 ## 👾 GitHub Repository
-- 📂 Check out my [GitHub profile]([https://github.com/RikiLaNeko?tab=repositories]) for projects and contributions.
+- 📂 Check out my [GitHub profile](https://github.com/RikiLaNeko?tab=repositories) for projects and contributions.
+
 
 Feel free to connect and collaborate! Let's build something awesome together!
 
