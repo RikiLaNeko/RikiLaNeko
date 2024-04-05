@@ -13,6 +13,7 @@
 - ASP.Net
 - Linux
 - Windows
+- TypeScript
 - Ktor (Web Application Development)
 
 ## 🎓 Academic Background
